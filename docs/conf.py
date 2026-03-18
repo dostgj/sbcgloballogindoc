@@ -1,6 +1,5 @@
 project = 'sbcglobal-login-account'
-author = 'sbcglobal-login-account
-'
+author = 'sbcglobal-login-account'
 release = '1.0'
 
 # Extensions
